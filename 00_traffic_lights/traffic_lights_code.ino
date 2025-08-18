@@ -1,5 +1,4 @@
 // C++ code
-//
 void setup()
 {
   // Defino los pines 2, 3 y 4 como salida
