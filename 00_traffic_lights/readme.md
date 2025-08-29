@@ -11,3 +11,13 @@
 <img src="/00_traffic_lights/yellow_light_preview.jpg"/>
 
 <img src="/00_traffic_lights/green_light_preview.jpg"/>
+
+## 👨‍💻 Author
+
+Emiliano Perez Paponi
+
+Full Stack Developer
+
+GitHub: @Emiliano-Blackbird
+
+Mail: EmilianoPerezPaponi@gmail.com
